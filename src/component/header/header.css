@@ -1,0 +1,8 @@
+.todo-list_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo-list_container h4{
+    padding-right: 25px;
+}

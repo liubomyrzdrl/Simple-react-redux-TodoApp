@@ -1,0 +1,11 @@
+.input-comp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+ 
+ 
+.input-comp input{
+    max-width: inherit;
+} 

@@ -1,0 +1,9 @@
+.list-todo-item{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    position: relative;
+    left: -2%;
+}
+
+ 
